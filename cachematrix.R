@@ -1,7 +1,7 @@
 ## This set of functions provides a "datatype" capable of
 ## * holding a matrix
 ## * calculating and caching the inverse of this matrix
-## * a function to calculate or get the cached inverse of the matrix
+## and a function to calculate or get the cached inverse of the matrix
 ##
 ## Usage:
 ##  cacheMatrix <- makeCacheMatrix(x)
